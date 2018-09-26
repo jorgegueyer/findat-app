@@ -1,0 +1,21 @@
+div.col-lg-6 {
+	width: 45%;
+	margin: 2em;
+}
+
+div.form-inline {
+	margin: 1em;
+}
+
+label {
+	margin-right: 1em;
+}
+
+button {
+	margin: 1em;
+}
+
+.row_add_info {
+  float: left;
+  width: 46%;
+  margin: 2%;
